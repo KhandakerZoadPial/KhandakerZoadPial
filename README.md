@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhandakerZoadPial
 - 👀 I’m interested in Python and Django stack.
-- 🌱 I’m currently learning React and React Native.
+- 🌱 I’m currently learning Blockchain.
 - 📫 How to reach me - email me at khpial27@gmail.com
 
 <!---
